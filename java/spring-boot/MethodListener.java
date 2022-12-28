@@ -5,7 +5,7 @@ import org.aspectj.lang.annotation.After;
 import org.aspectj.lang.annotation.Around;
 
 /**
-* To create a Spring component that listens for a method being called, you can use the @Aspect annotation along with the @Before annotation.
+* To create a Spring component that listens for a method being called, you can use the @Aspect annotation.
 */
 @Aspect
 public class MethodListener {
